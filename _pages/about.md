@@ -17,8 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! I am a PhD student in the Department of Electrical Engineering at [Indian Institute of Technology, Kanpur](https://www.iitk.ac.in/), where my advisor is [Prof. Yogesh Singh Chauhan](https://home.iitk.ac.in/~chauhan/). I am associated with [Nanolab](https://www.iitk.ac.in/nanolab/) and I am part of the [BSIM-BULK](https://bsim.berkeley.edu/models/bsimbulk/) group there.
 
-Put your address/ P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research focuses on modeling of Electronic Devices in general.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to get in touch with me!
