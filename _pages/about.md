@@ -21,4 +21,4 @@ Hi there! I am a PhD student in the Department of Electrical Engineering at [Ind
 
 My current research focuses on modeling of Electronic Devices in general.
 
-Feel free to get in touch with me ~ yawarz21@iitk.ac.in
+Feel free to get in touch with me ~ yawarz21[at]iitk.ac.in
