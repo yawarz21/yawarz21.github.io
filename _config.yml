@@ -202,8 +202,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Zarkob
-  first_name: Yawar Hayat
+  last_name: Yawar Hayat
+  first_name: Zarkob
 
   style: apa
   locale: en
